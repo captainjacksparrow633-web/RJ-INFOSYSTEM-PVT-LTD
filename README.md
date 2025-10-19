@@ -5,13 +5,13 @@ Turn paper into searchable digital files — fast &amp; secure. DATA AT YOUR FIN
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MERA Scanner – Document Scanning Services</title>
+  <title>RJ INFOSYSTEM data at your finger tips – Document Scanning Services</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-50 text-gray-800">
   <header class="bg-blue-700 text-white py-6 shadow-md">
     <div class="container mx-auto px-4">
-      <h1 class="text-3xl font-bold">MERA Scanner</h1>
+      <h1 class="text-3xl font-bold">RJ INFOSYSTEM</h1>
       <p class="text-lg">Fast, Secure & Reliable Document Scanning Services</p>
     </div>
   </header>
@@ -52,15 +52,15 @@ Turn paper into searchable digital files — fast &amp; secure. DATA AT YOUR FIN
 
     <section id="contact" class="text-center">
       <h2 class="text-2xl font-semibold mb-6">Contact Us</h2>
-      <p class="mb-2">📍 123, Main Road, Your City, India</p>
-      <p class="mb-2">📞 +91 98765 43210</p>
-      <p class="mb-4">✉️ info@merascanner.com</p>
+      <p class="mb-2">📍 Plot No 79/D. Kurla Kamgar C H S Ltd. S G Barve Marg. Kurla East. Mumbai. Maharashtra 400024 India</p>
+      <p class="mb-2">📞 +91 7875757140 - 7058873045</p>
+      <p class="mb-4">✉️ rjinfosystem0@gmail.com</p>
       <a href="mailto:info@merascanner.com" class="bg-blue-700 text-white px-6 py-2 rounded-lg shadow hover:bg-blue-800">Send Email</a>
     </section>
   </main>
 
   <footer class="bg-gray-800 text-white text-center py-4 mt-12">
-    <p>&copy; 2025 MERA Scanner. All Rights Reserved.</p>
+    <p>&copy; 2025 RJ INFOSYSTEM. All Rights Reserved.</p>
   </footer>
 </body>
 </html>
