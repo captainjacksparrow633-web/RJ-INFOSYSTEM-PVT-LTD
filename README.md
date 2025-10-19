@@ -18,7 +18,7 @@ Turn paper into searchable digital files — fast &amp; secure. DATA AT YOUR FIN
 
   <main class="container mx-auto px-4 py-10">
     <section id="home" class="mb-12 text-center">
-      <h2 class="text-2xl font-semibold mb-4">Welcome to RJ INFOSYSTEMr</h2>
+      <h2 class="text-2xl font-semibold mb-4">Welcome to RJ INFOSYSTEM</h2>
       <p class="max-w-2xl mx-auto">We offer high-quality document scanning, photocopying, and digital archiving services for offices, schools, hospitals, and government departments. Transform your paper records into secure, digital formats today!</p>
     </section>
 
